@@ -157,6 +157,7 @@ function renderProfileSections(profile) {
   for (const source of sources) {
     const item = document.createElement("li");
     const link = document.createElement("a");
+    link.className = "hyperlink";
     link.href = source.url.trim();
     link.textContent = source.label.trim();
     link.target = "_blank";

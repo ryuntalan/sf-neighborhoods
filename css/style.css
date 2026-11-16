@@ -281,11 +281,13 @@ h1 {
   margin-top: 0.25rem;
 }
 
+.hyperlink,
 .profile-sources a {
   color: #1a1a1a;
   text-underline-offset: 0.12em;
 }
 
+.hyperlink:hover,
 .profile-sources a:hover {
   color: #333;
 }
