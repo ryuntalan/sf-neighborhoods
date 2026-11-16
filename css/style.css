@@ -56,7 +56,6 @@ h1 {
   grid-template-rows: minmax(0, 1fr);
   height: min(680px, calc(100vh - 10rem));
   min-height: 560px;
-  border: 2px solid #e8e8e8;
   border-radius: 8px;
   background: #f4f4f4;
   overflow: hidden;

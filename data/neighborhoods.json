@@ -28,8 +28,8 @@
     {
       "geoName": "Marina",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/marina.jpg",
+        "alt": "View of the Marina District, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -57,8 +57,8 @@
     {
       "geoName": "Chinatown",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/chinatown.jpg",
+        "alt": "Street scene in Chinatown, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -82,8 +82,8 @@
     {
       "geoName": "Financial District/South Beach",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/financial.jpg",
+        "alt": "Skyline view of the Financial District, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -111,8 +111,8 @@
     {
       "geoName": "Sunset/Parkside",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/sunset.jpg",
+        "alt": "Residential street in the Sunset District, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -136,8 +136,8 @@
     {
       "geoName": "North Beach",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/north-beach.jpg",
+        "alt": "View of North Beach, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -161,8 +161,8 @@
     {
       "geoName": "Mission",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/mission.jpg",
+        "alt": "Street view in the Mission District, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -186,8 +186,8 @@
     {
       "geoName": "South of Market",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/soma.jpg",
+        "alt": "View of South of Market, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -211,8 +211,8 @@
     {
       "geoName": "Potrero Hill",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/potrero-hill.jpg",
+        "alt": "View of Potrero Hill, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -240,8 +240,8 @@
     {
       "geoName": "Mission Bay",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/mission-bay.jpg",
+        "alt": "View of Mission Bay, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -269,8 +269,8 @@
     {
       "geoName": "Bayview Hunters Point",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/bayview.jpg",
+        "alt": "View of Bayview Hunters Point, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -298,8 +298,8 @@
     {
       "geoName": "Presidio",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/presidio.jpg",
+        "alt": "View of the Presidio, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -327,8 +327,8 @@
     {
       "geoName": "Haight Ashbury",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/haight.jpg",
+        "alt": "Street view in Haight Ashbury, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -352,8 +352,8 @@
     {
       "geoName": "Tenderloin",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/tenderloin.jpg",
+        "alt": "Street view in the Tenderloin, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -381,8 +381,8 @@
     {
       "geoName": "Castro/Upper Market",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/castro.jpg",
+        "alt": "Street view in the Castro, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -406,8 +406,8 @@
     {
       "geoName": "Russian Hill",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/russian-hill.jpeg",
+        "alt": "View of Russian Hill, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -435,8 +435,8 @@
     {
       "geoName": "Bernal Heights",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/bernal.jpg",
+        "alt": "View of Bernal Heights, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -460,8 +460,8 @@
     {
       "geoName": "Nob Hill",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/nob-hill.jpg",
+        "alt": "View of Nob Hill, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -485,8 +485,8 @@
     {
       "geoName": "Western Addition",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/western-addition.jpg",
+        "alt": "View of the Western Addition, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -510,8 +510,8 @@
     {
       "geoName": "Pacific Heights",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/pacific-heights.jpg",
+        "alt": "View of Pacific Heights, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -535,8 +535,8 @@
     {
       "geoName": "Excelsior",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/excelsior.jpg",
+        "alt": "Street view in the Excelsior, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -560,8 +560,8 @@
     {
       "geoName": "Noe Valley",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/noe-valley.jpg",
+        "alt": "Street view in Noe Valley, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -585,8 +585,8 @@
     {
       "geoName": "Glen Park",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/glen-park.jpg",
+        "alt": "View of Glen Park, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -614,8 +614,8 @@
     {
       "geoName": "West of Twin Peaks",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/west-of-twin-peaks.jpeg",
+        "alt": "Residential view west of Twin Peaks, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -643,8 +643,8 @@
     {
       "geoName": "Visitacion Valley",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/visitacion-valley.jpg",
+        "alt": "View of Visitacion Valley, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -672,8 +672,8 @@
     {
       "geoName": "Treasure Island",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/treasure-island.jpg",
+        "alt": "View of Treasure Island, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -701,8 +701,8 @@
     {
       "geoName": "Hayes Valley",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/hayes-valley.jpg",
+        "alt": "Street view in Hayes Valley, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -726,8 +726,8 @@
     {
       "geoName": "Japantown",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/japantown.jpg",
+        "alt": "View of Japantown, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -751,8 +751,8 @@
     {
       "geoName": "Inner Richmond",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/inner-richmond.jpg",
+        "alt": "Street view in the Inner Richmond, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -776,8 +776,8 @@
     {
       "geoName": "Inner Sunset",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/inner-sunset.jpg",
+        "alt": "Street view in the Inner Sunset, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -805,8 +805,8 @@
     {
       "geoName": "Outer Richmond",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/outer-richmond.jpg",
+        "alt": "View of the Outer Richmond, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -834,8 +834,8 @@
     {
       "geoName": "Outer Mission",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/outer-mission.jpg",
+        "alt": "Street view in the Outer Mission, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -863,8 +863,8 @@
     {
       "geoName": "Portola",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/portola.jpg",
+        "alt": "View of the Portola neighborhood, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -892,8 +892,8 @@
     {
       "geoName": "Lone Mountain/USF",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/lone-mountain.jpeg",
+        "alt": "View of Lone Mountain and USF, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -921,8 +921,8 @@
     {
       "geoName": "Presidio Heights",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/presidio-heights.jpg",
+        "alt": "View of Presidio Heights, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -950,8 +950,8 @@
     {
       "geoName": "Lakeshore",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/lakeshore.jpg",
+        "alt": "View of the Lakeshore area, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -979,8 +979,8 @@
     {
       "geoName": "Golden Gate Park",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/golden-gate-park.jpg",
+        "alt": "View in Golden Gate Park, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -1008,8 +1008,8 @@
     {
       "geoName": "Lincoln Park",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/lincoln-park.jpg",
+        "alt": "View of Lincoln Park, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -1037,8 +1037,8 @@
     {
       "geoName": "McLaren Park",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/mclaren-park.jpg",
+        "alt": "View of McLaren Park, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -1066,8 +1066,8 @@
     {
       "geoName": "Seacliff",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/seacliff.jpg",
+        "alt": "View of Seacliff, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
@@ -1095,15 +1095,15 @@
     {
       "geoName": "Twin Peaks",
       "image": {
-        "src": "",
-        "alt": "",
+        "src": "images/neighborhoods/twin-peaks.jpg",
+        "alt": "View of Twin Peaks, San Francisco",
         "credit": "",
         "license": "",
         "sourceUrl": ""
       },
       "sections": {
         "buildingsArchitecture": "Twin Peaks has midcentury hillside housing that differs from San Francisco's flat street-grid rowhouses. Midtown Terrace developed with detached two-story homes on terraced streets, while a documented east-slope apartment building used wood framing for three residential floors above a garage, adapting its layout to the steep lot.",
-        "landmarks": "Eureka Peak, Noe Peak, Christmas Tree Point, Twin Peaks Boulevard, Twin Peaks Promenade",
+        "landmarks": "Twin Peaks Reservoir, Eureka Peak, Noe Peak, Christmas Tree Point, Twin Peaks Boulevard",
         "rescueConsiderations": "Street-level appearances can be misleading on steep sites: a building may have extra occupied floors or entrances downhill, affecting floor counts, searches, and stretcher routes. Winding streets, retaining walls, trails, and changing vehicle-access restrictions around the summit also require crews to confirm the safest approach and patient-removal route."
       },
       "sources": [
