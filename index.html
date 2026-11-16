@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Know Your Neighborhood</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Know Your Neighborhood</h1>
+  </header>
+
+  <div class="explorer-wrap">
+    <main class="explorer">
+      <section class="map-panel" aria-label="San Francisco map">
+        <div id="neighborhood-map" class="neighborhood-map"></div>
+      </section>
+
+      <aside class="info-panel" id="info-panel" aria-live="polite">
+        <div id="welcome-view">
+          <h2>Welcome!</h2>
+          <img
+            class="profile-image"
+            src="images/welcome-sf.jpg"
+            alt="San Francisco skyline and neighborhoods"
+          >
+          <p>
+            Select a neighborhood on the map to learn about its building construction, local landmarks, rescue considerations, and emergency resources.
+          </p>
+        </div>
+
+        <div id="profile-view" hidden>
+          <h2 id="profile-name"></h2>
+          <p id="profile-status" class="profile-status" hidden></p>
+          <div class="profile-media">
+            <img id="profile-image" class="profile-image" alt="" hidden>
+            <div id="profile-image-fallback" class="image-placeholder" role="img" aria-label="Image placeholder"></div>
+          </div>
+          <div id="profile-body"></div>
+        </div>
+      </aside>
+    </main>
+
+    <button
+      type="button"
+      class="credit-button"
+      id="credit-button"
+      aria-expanded="false"
+      aria-label="About this project"
+    >
+      <span class="credit-initials" aria-hidden="true">RU</span>
+      <span class="credit-details">
+        Built by Ryan Untalan
+        <span class="credit-dot" aria-hidden="true"></span>
+        Captain Yee Rescue Practice Final Project 2026
+      </span>
+    </button>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>

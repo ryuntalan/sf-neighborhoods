@@ -1,0 +1,1125 @@
+{
+  "neighborhoods": [
+    {
+      "geoName": "Oceanview/Merced/Ingleside",
+      "image": {
+        "src": "images/neighborhoods/ingleside.jpeg",
+        "alt": "Street view in Ingleside, San Francisco",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "OMI is primarily residential, with low-rise Type V wood-frame homes built throughout the early and mid-20th century. The area features Victorian cottages, Mediterranean-style houses, and postwar stucco homes, many with ground-level garages.",
+        "landmarks": "Ocean Avenue, City College of San Francisco, Ingleside Branch Library, El Rey Theatre, Balboa Park",
+        "rescueConsiderations": "Some older houses have wide ground-floor garage openings that can create a weaker lower story during an earthquake, depending on their design and retrofits. Steep streets in parts of Merced Heights can also complicate apparatus positioning, equipment movement, and patient transport."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Oceanview/Merced/Ingleside Historic Context Statement",
+          "url": "https://sfplanninggis.org/docs/Historical_Context_Statements/Ocean%20View%2C%20Merced%20Heights%2C%20and%20Ingleside%20HIstoric%20Context%20Statement%20%282010%29.pdf"
+        },
+        {
+          "label": "NFPA — Types of Building Construction",
+          "url": "https://www.nfpa.org/news-blogs-and-articles/blogs/2021/02/19/construction-types-and-material-combustibility"
+        }
+      ]
+    },
+    {
+      "geoName": "Marina",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Much of the Marina District developed during the 1920s and 1930s, featuring Mediterranean Revival homes, Type V wood-frame flats, and apartment buildings. Some residences have ground-floor garages beneath living spaces, creating large openings in the lower story.",
+        "landmarks": "Palace of Fine Arts, Marina Green, Fort Mason, Chestnut Street, Moscone Recreation Center",
+        "rescueConsiderations": "During the 1989 Loma Prieta earthquake, liquefaction of the Marina's artificial fill and weaknesses in some ground-floor structures contributed to significant building damage. These conditions can create partially collapsed buildings, unstable foundations, and difficult search-and-rescue environments."
+      },
+      "sources": [
+        {
+          "label": "SF Heritage — The Marina District",
+          "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/the-marina-district/"
+        },
+        {
+          "label": "USGS — Loma Prieta Earthquake: Marina District",
+          "url": "https://www.usgs.gov/publications/loma-prieta-california-earthquake-october-17-1989-marina-district"
+        },
+        {
+          "label": "San Francisco — Soft-Story Buildings",
+          "url": "https://www.sfgov.org/sfc/esip/soft-story"
+        }
+      ]
+    },
+    {
+      "geoName": "Chinatown",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Much of Chinatown was rebuilt following the 1906 earthquake and fire, with its historic core featuring two- to four-story mixed-use buildings constructed with brick or concrete. Many Edwardian-style buildings incorporate Chinese-inspired architectural features, including curved rooflines, decorative balconies, and colorful facades.",
+        "landmarks": "Dragon Gate, Grant Avenue, Portsmouth Square, Waverly Place, Tin How Temple",
+        "rescueConsiderations": "In Type III ordinary construction, masonry exterior walls surround combustible interior framing; a brick facade alone does not establish a building's construction type. Chinatown's narrow alleys and upper-floor residences above shops can complicate apparatus access, occupant searches, and evacuation."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Strategies for a Sustainable Chinatown",
+          "url": "https://sfplanning.org/sites/default/files/resources/2023-05/Strategies-for-a-Sustainable-Chinatown_WEB.pdf"
+        },
+        {
+          "label": "NFPA — Types of Building Construction",
+          "url": "https://www.nfpa.org/news-blogs-and-articles/blogs/2021/02/19/construction-types-and-material-combustibility"
+        }
+      ]
+    },
+    {
+      "geoName": "Financial District/South Beach",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "The Financial District combines post-1906 steel-frame buildings with masonry facades and modern glass-and-steel towers. Many modern high-rises use Type I fire-resistive construction, with protected structural members; South Beach and Rincon Hill also contain newer residential towers.",
+        "landmarks": "Transamerica Pyramid, Salesforce Tower, Ferry Building, The Embarcadero, Oracle Park",
+        "rescueConsiderations": "High-rise buildings require firefighters to consider vertical access, stairwell operations, standpipe systems, and occupant evacuation across multiple floors. Rescuing an injured person from an upper floor can require extensive personnel and coordination, particularly when elevators cannot be used."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Downtown Area Plan",
+          "url": "https://generalplan.sfplanning.org/Downtown.htm"
+        },
+        {
+          "label": "SF Planning — Rincon Hill Plan",
+          "url": "https://sfplanning.org/project/rincon-hill-plan"
+        },
+        {
+          "label": "NFPA — Types of Building Construction",
+          "url": "https://www.nfpa.org/news-blogs-and-articles/blogs/2021/02/19/construction-types-and-material-combustibility"
+        }
+      ]
+    },
+    {
+      "geoName": "Sunset/Parkside",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Sunset/Parkside is known for closely spaced Type V wood-frame houses with stucco exteriors. From the late 1920s through the 1940s, developer Henry Doelger used standardized floor plans while varying exterior details to make neighboring houses look different. Many have garages below the main living areas.",
+        "landmarks": "Stern Grove, Pine Lake Park, Taraval Street, Sunset Reservoir, Sunset Boulevard",
+        "rescueConsiderations": "Doelger's repeated floor plans offer clues about original room layouts, but renovations mean firefighters cannot assume neighboring houses remain identical. Wood-frame buildings can contain concealed spaces that allow fire to spread between floors."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Sunset District Residential Builders Historic Context Statement",
+          "url": "https://sfplanninggis.org/docs/Historical_Context_Statements/Sunset%20Residential%20Builders%20Historic%20Context%20Statement%20%282013%29.pdf"
+        },
+        {
+          "label": "SF Planning — Henry Doelger Landmark Designation Report",
+          "url": "https://default.sfplanning.org/Preservation/landmarks_designation/Approved_Doelger_Final_LM_Report.pdf"
+        }
+      ]
+    },
+    {
+      "geoName": "North Beach",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Much of North Beach was rebuilt between 1906 and 1915, with two- and three-story Type V wood-frame houses and flats featuring Italian Renaissance-inspired details. Historic research suggests many used platform framing—building one floor at a time—while larger commercial buildings along parts of Broadway and Columbus Avenue used brick or concrete.",
+        "landmarks": "Coit Tower, Washington Square, Saints Peter and Paul Church, City Lights Bookstore, Filbert Steps",
+        "rescueConsiderations": "Multiple residential units with separate interior stairways can complicate occupant searches and evacuation. Firefighters must also understand whether buildings use platform or balloon framing, because balloon framing without adequate fireblocking can allow fire to travel vertically through concealed wall cavities."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — North Beach Historic Context Statement",
+          "url": "https://sfplanning.s3.amazonaws.com/default/files/Preservation/hcs_north_beach.pdf"
+        },
+        {
+          "label": "NFPA — Types of Building Construction",
+          "url": "https://www.nfpa.org/news-blogs-and-articles/blogs/2021/02/19/construction-types-and-material-combustibility"
+        }
+      ]
+    },
+    {
+      "geoName": "Mission",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "The Mission grew as a streetcar suburb of Victorian wood-frame houses; after the 1906 earthquake and fire, rebuilding introduced denser Edwardian flats. Two- and three-story Type V wood-frame flats often feature light wells—narrow open spaces that bring light and air into interior rooms—and private stairways.",
+        "landmarks": "Mission Dolores, Dolores Park, Mission Cultural Center for Latino Arts, Clarion Alley, Balmy Alley",
+        "rescueConsiderations": "Stacked flats, rear cottages, and light wells can create multiple occupied spaces and less obvious access routes during searches. In older wood-frame buildings, firefighters must assess concealed fire spread through wall and floor cavities without assuming a particular framing method, such as balloon framing."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Mission Area Plan",
+          "url": "https://generalplan.sfplanning.org/Mission.htm"
+        },
+        {
+          "label": "SF Planning — Mission District Historic Context Statement",
+          "url": "https://default.sfplanning.org/Preservation/imn_survey/Mission_District_Historic_Context_Statement.pdf"
+        }
+      ]
+    },
+    {
+      "geoName": "South of Market",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Historically a warehouse district, SoMa retains post-1906 buildings with load-bearing brick walls and heavy-timber framing: large wood beams and columns supporting the floors. Later warehouses used concrete and larger open floor areas, while many former industrial buildings have been converted to offices, housing, and cultural uses.",
+        "landmarks": "SFMOMA, Moscone Center, Yerba Buena Gardens, Old San Francisco Mint, SOMA Pilipinas Cultural Heritage District",
+        "rescueConsiderations": "A brick warehouse may have wood floors and columns inside, creating different fire and collapse concerns from a modern concrete building. Large open interiors, freight shafts, and later renovations can complicate searches and smoke movement, making it important to identify the actual structural system."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — South of Market Historic Context Statement",
+          "url": "https://archives.sfplanning.org/documents/372-SOMA_Historic_Context_Statement_06-30-2009.pdf"
+        },
+        {
+          "label": "SF Planning — Western SoMa Area Plan",
+          "url": "https://generalplan.sfplanning.org/Western_SoMa.htm"
+        }
+      ]
+    },
+    {
+      "geoName": "Potrero Hill",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Potrero Hill’s residential slopes feature Victorian and Edwardian wood-frame cottages and flats, while Dogpatch, within this analysis neighborhood, preserves workers’ housing beside brick industrial warehouses. Dogpatch contains thirteen nearly identical Eastlake-style Pelton cottages, based on plans that architect John Cotter Pelton Jr. published free in the 1880s.",
+        "landmarks": "Dogpatch Historic District, Pelton Cottages, Pier 70, Potrero Hill Recreation Center, I.M. Scott School",
+        "rescueConsiderations": "Type V wood-frame cottages and brick warehouses with large timber beams and columns present different fire-spread and structural-collapse concerns, even on the same block. Steep hillside streets can also complicate apparatus placement and the movement of ladders, hose, and patients."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Dogpatch Landmark District Walking Tour",
+          "url": "https://default.sfplanning.org/Preservation/walking_tours/Walking_Tour_DOGPATCH.pdf"
+        },
+        {
+          "label": "SF Planning — Central Waterfront Area Plan",
+          "url": "https://generalplan.sfplanning.org/Central_Waterfront.htm"
+        },
+        {
+          "label": "San Francisco Planning Code — Dogpatch Historic District",
+          "url": "https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_planning/0-0-0-28615"
+        }
+      ]
+    },
+    {
+      "geoName": "Mission Bay",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Mission Bay was built over former tidal marsh and bay waters filled for railroad and industrial uses before becoming a district of hospitals, laboratories, and housing. UCSF's Mission Bay Medical Center uses more than 330 earthquake braces designed to absorb shaking, plus deep foundations to address compressible soil known as 'Mission Bay mud'.",
+        "landmarks": "UCSF Benioff Children's Hospital San Francisco, Chase Center, Mission Creek Park, Mission Bay Library, Thrive City",
+        "rescueConsiderations": "Hospitals and research facilities add specialized rescue considerations, including vulnerable patients, complex building systems, and the need to maintain critical operations. After a major earthquake, crews must consider site conditions and surrounding infrastructure alongside the building's engineered seismic protections."
+      },
+      "sources": [
+        {
+          "label": "UCSF — Mission Bay Medical Center Seismic Safety",
+          "url": "https://www.ucsf.edu/news/2011/12/104028/ucsf-medical-center-mission-bay-incorporates-best-practices-seismic-safety"
+        },
+        {
+          "label": "SF Planning — Central Waterfront Area Plan",
+          "url": "https://generalplan.sfplanning.org/Central_Waterfront.htm"
+        },
+        {
+          "label": "SF Planning — Mission Bay Development History",
+          "url": "https://archives.sfplanning.org/documents/9329-GSW%20Mission%20Bay%20Draft%20NOP-Initial%20Study.pdf"
+        }
+      ]
+    },
+    {
+      "geoName": "Bayview Hunters Point",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Bayview Hunters Point combines Type V wood-frame rowhouses with industrial facilities shaped by the Hunters Point Naval Shipyard. One distinctive house style is the 'Junior Five': a compact stucco-finished home with five main rooms upstairs and a garage or utility space below, widely built in the late 1930s and early 1940s.",
+        "landmarks": "Ruth Williams Bayview Opera House, Hunters Point Naval Shipyard, India Basin Shoreline Park, Candlestick Point State Recreation Area, Heron's Head Park",
+        "rescueConsiderations": "A Junior Five's upstairs living areas and ground-floor garage can make stairway access an important consideration for patient removal and occupant searches. Nearby shipyard and industrial buildings may have much larger open spaces and different structural systems, requiring different approaches to access and searches."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Bayview–Hunters Point Historic Context Statement",
+          "url": "https://sfplanninggis.org/docs/Historical_Context_Statements/Bayview%20Hunters%20Point%20Area%20B%20Historic%20Context%20Statement%20%282008%29.pdf"
+        },
+        {
+          "label": "SF Planning — Bayview Hunters Point Area Plan",
+          "url": "https://sfplanning.s3.amazonaws.com/generalplan/Bayview_Hunters_Point.htm"
+        },
+        {
+          "label": "SF Heritage — Hunters Point and the Shipyard",
+          "url": "https://www.sfheritage.org/research/hunterspoint/"
+        }
+      ]
+    },
+    {
+      "geoName": "Presidio",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "The Presidio contains over 200 years of military architecture, from historic adobe structures to brick barracks and wood-frame buildings. Its Montgomery Street Barracks, constructed in the 1890s, were among the first brick military barracks in the western United States and shared standardized floor plans. During World War II, the Army also erected standardized wood-frame buildings intended for rapid construction, many of which survive today.",
+        "landmarks": "Presidio Officers' Club, Montgomery Street Barracks, Main Parade Lawn, Fort Point, Presidio Tunnel Tops",
+        "rescueConsiderations": "The Presidio's combination of adobe, masonry, and Type V wood-frame structures presents different considerations for fire spread and structural stability. Many former military buildings have been converted into offices, museums, and other public uses, so firefighters must account for alterations to their original interiors and occupancy."
+      },
+      "sources": [
+        {
+          "label": "National Park Service — Montgomery Street Barracks",
+          "url": "https://www.nps.gov/prsf/learn/historyculture/montgomery-street-barracks.htm"
+        },
+        {
+          "label": "National Park Service — World War II Architecture",
+          "url": "https://www.nps.gov/prsf/learn/historyculture/world-war-ii-era.htm"
+        },
+        {
+          "label": "National Park Service — Presidio Officers' Club History",
+          "url": "https://www.nps.gov/prsf/planyourvisit/history-of-the-officers-club.htm"
+        }
+      ]
+    },
+    {
+      "geoName": "Haight Ashbury",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Haight Ashbury developed primarily between 1890 and 1910 as a streetcar suburb of Queen Anne Victorian homes, many built with Type V wood-frame construction. At the corner of Haight and Ashbury, the Doolan-Larson House was originally built as a residence in 1903, then physically raised in 1907 to accommodate six ground-floor storefronts beneath it.",
+        "landmarks": "Haight and Ashbury Intersection, Doolan-Larson House, Haight Street, Buena Vista Park, The Panhandle",
+        "rescueConsiderations": "Converting residential buildings into mixed-use spaces can change their original layouts, structural load paths, and means of access. In older wood-frame buildings, concealed wall and floor cavities may also provide pathways for fire spread, depending on the framing method and fireblocking."
+      },
+      "sources": [
+        {
+          "label": "SF Heritage — Haight Neighborhood Walking Tour",
+          "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/haight-neighborhood-walking-tour/"
+        },
+        {
+          "label": "SF Heritage — Doolan-Larson House and Storefronts",
+          "url": "https://www.sfheritage.org/doolan-larson-building/whats-in-a-name-the-doolan-larson-house-and-storefronts/"
+        }
+      ]
+    },
+    {
+      "geoName": "Tenderloin",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Much of the Tenderloin was rebuilt after the 1906 earthquake and fire, producing three- to seven-story brick and reinforced-concrete apartment buildings and residential hotels. The neighborhood contains a large collection of historic Single Room Occupancy (SRO) hotels, where residents typically occupy individual rooms connected by shared corridors, bathrooms, and stairways.",
+        "landmarks": "Tenderloin Museum, Cadillac Hotel, Alhambra Apartments, Alcazar Theatre, Boeddeker Park",
+        "rescueConsiderations": "SRO hotels can require extensive room-by-room searches and coordinated evacuations involving numerous residents. Firefighters must consider smoke movement through shared corridors, stairway access, and occupants who may need assistance evacuating."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Uptown Tenderloin Historic District Description",
+          "url": "https://commissions.sfplanning.org/cpcpackets/2012.0086EVX.pdf"
+        },
+        {
+          "label": "SF Planning — Single Room Occupancy Hotel Protections",
+          "url": "https://sfplanning.s3.amazonaws.com/projects/community-stabilization/sro-hotel-protections.htm"
+        },
+        {
+          "label": "SFFD — SRO Hotel Fire Safety Program",
+          "url": "https://sf-fire.org/community-programs/sro-hotel-fire-safety-program"
+        }
+      ]
+    },
+    {
+      "geoName": "Castro/Upper Market",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Castro/Upper Market preserves rows of Victorian wood-frame houses built as streetcar service expanded into Eureka Valley during the 1880s and 1890s. Many escaped the 1906 fire, which stopped near Dolores and 20th Streets. The Swedish American Hall, built in 1907, features a half-timbered exterior designed by Swedish architect August Nordin.",
+        "landmarks": "Castro Theatre, Harvey Milk Plaza, Swedish American Hall, Pink Triangle Park, Rainbow Honor Walk",
+        "rescueConsiderations": "Older Type V wood-frame houses and mixed-use commercial buildings present different challenges for occupant searches, concealed fire spread, and evacuation. Hillside streets around Eureka Valley can also complicate apparatus positioning and equipment movement."
+      },
+      "sources": [
+        {
+          "label": "Castro Community Benefit District — History of Castro/Upper Market",
+          "url": "https://castrocbd.org/history-of-the-castroupper-market/"
+        },
+        {
+          "label": "SF Heritage — Upper Market and Streetcar Development",
+          "url": "https://www.sfheritage.org/news/the-birth-and-rebirth-of-the-first-subway-station-in-the-west/"
+        }
+      ]
+    },
+    {
+      "geoName": "Russian Hill",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Russian Hill contains historic 19th-century homes alongside larger apartment buildings, with portions of the Vallejo Street Crest neighborhood surviving the 1906 fire. One unusual example is the Feusier Octagon House, built in the late 1850s with eight sides and exterior walls made from lime cement rather than conventional wood framing.",
+        "landmarks": "Lombard Street, Feusier Octagon House, Macondray Lane, Ina Coolbrith Park, Vallejo Street Crest Historic District",
+        "rescueConsiderations": "Steep grades, retaining walls, and hillside walkways can complicate emergency access, equipment placement, and patient removal. Unusual historic wall materials also require firefighters to consider structural stability rather than assuming every older residence has conventional Type V wood-frame construction."
+      },
+      "sources": [
+        {
+          "label": "SF Heritage — San Francisco's Historic Octagon Houses",
+          "url": "https://www.sfheritage.org/news/octagon-houses-city-landmarks-17-and-36/"
+        },
+        {
+          "label": "SF General Plan — Russian Hill Urban Design Characteristics",
+          "url": "https://generalplan.sfplanning.org/I5_Urban_Design.htm"
+        },
+        {
+          "label": "National Park Service — Russian Hill–Vallejo Street Crest Historic District",
+          "url": "https://npgallery.nps.gov/AssetDetail/NRIS/87002289"
+        }
+      ]
+    },
+    {
+      "geoName": "Bernal Heights",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Bernal Heights features Type V wood-frame cottages and Victorian houses, including surviving emergency relief cottages built after the 1906 earthquake and fire. Many of these small redwood cottages were moved from refugee camps near Precita Park and later expanded, altered, or incorporated into larger homes.",
+        "landmarks": "Bernal Heights Park, Precita Park, Cortland Avenue, Bernal Heights Branch Library, Alemany Farmers' Market",
+        "rescueConsiderations": "Later additions can obscure an older building's original layout and create concealed spaces where fire may spread. Bernal Heights' steep, narrow streets can also complicate apparatus positioning, equipment movement, and patient evacuation."
+      },
+      "sources": [
+        {
+          "label": "KQED — San Francisco's Historic Relief Cottages",
+          "url": "https://www.kqed.org/news/12068602/san-franciscos-historic-relief-cottages-built-after-the-1906-earthquake-are-hidden-in-plain-sight"
+        },
+        {
+          "label": "Western Neighborhoods Project — Surviving 1906 Cottages",
+          "url": "https://www.cpc.outsidelands.org/shack-list.php"
+        }
+      ]
+    },
+    {
+      "geoName": "Nob Hill",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Nob Hill's Fairmont Hotel is an early steel-frame landmark that was severely damaged during the 1906 earthquake and fire, then restored under architect Julia Morgan. Nearby Grace Cathedral resembles a medieval stone Gothic church, but its structure was built using reinforced concrete and steel between the 1920s and 1960s.",
+        "landmarks": "Fairmont Hotel, Grace Cathedral, Huntington Park, Mark Hopkins Hotel, Pacific Union Club",
+        "rescueConsiderations": "Large hotels require coordinated room-by-room searches, stairwell operations, and evacuation across multiple floors. The cathedral's expansive interior spaces and Nob Hill's steep streets introduce different challenges for occupant searches, smoke movement, and apparatus access."
+      },
+      "sources": [
+        {
+          "label": "Historic Hotels of America — Fairmont History",
+          "url": "https://www.historichotels.org/us/hotels-resorts/the-fairmont-hotel-san-francisco/history"
+        },
+        {
+          "label": "Grace Cathedral — Architecture",
+          "url": "https://gracecathedral.org/architecture/"
+        }
+      ]
+    },
+    {
+      "geoName": "Western Addition",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "The Western Addition combines historic Type V wood-frame Victorian houses, including the Painted Ladies near Alamo Square, with newer multifamily buildings constructed during 20th-century redevelopment. In November 1974, preservationists physically moved twelve Victorian buildings through city streets to save them from demolition.",
+        "landmarks": "Alamo Square Park, Painted Ladies, Beideman Place Historic District, Fillmore Street, African American Art and Culture Complex",
+        "rescueConsiderations": "A relocated Victorian may have alterations to its foundation, lower floors, and interior access that are not apparent from the street. Historic flats and newer multifamily buildings also present different arrangements of units, corridors, and stairways, affecting searches and evacuation."
+      },
+      "sources": [
+        {
+          "label": "SF Heritage — Moving Days",
+          "url": "https://www.sfheritage.org/news/heritage-50-moving-days/"
+        },
+        {
+          "label": "San Francisco Travel — Painted Ladies",
+          "url": "https://www.sftravel.com/things-to-do/attractions/iconic-sf/painted-ladies"
+        }
+      ]
+    },
+    {
+      "geoName": "Pacific Heights",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Pacific Heights developed into a neighborhood of large Victorian and revival-style residences during the late 19th and early 20th centuries, with wood-frame construction prominent in its early development. The Haas-Lilienthal House, an 11,500-square-foot Queen Anne mansion built in 1886, survived the 1906 earthquake and fire and was later converted into a museum.",
+        "landmarks": "Haas-Lilienthal House, Lafayette Park, Alta Plaza Park, Fillmore Street, Spreckels Mansion",
+        "rescueConsiderations": "Large historic residences can contain multiple staircases, complex rooflines, and concealed attic spaces that complicate interior searches and fire investigation. Buildings converted from private homes to public uses may also have different occupancy and evacuation requirements."
+      },
+      "sources": [
+        {
+          "label": "SF Heritage — Haas-Lilienthal House",
+          "url": "https://www.sfheritage.org/legacy-businesses/visit-us-at-the-haas-lilienthal-house/"
+        },
+        {
+          "label": "Victorian Alliance — Pacific Heights Architectural History",
+          "url": "https://victorianalliance.org/2022-self-guided-walking-tours-pacific-heights/"
+        }
+      ]
+    },
+    {
+      "geoName": "Excelsior",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "After the 1906 earthquake and fire, the Excelsior's former farmland developed into residential streets with Type V wood-frame cottages and Victorian houses. On Mission Street, the 1935 Royal Baking Company building appears to be two separate buildings—one with a Storybook facade and the other Art Deco—but both storefronts are part of a single structure.",
+        "landmarks": "Royal Baking Company Building, Excelsior Branch Library, Corpus Christi Church, Mission Street, Excelsior Playground",
+        "rescueConsiderations": "Different storefront facades do not necessarily indicate separate buildings or independent interior spaces, making it important to identify possible connections when checking for fire extension. The neighborhood's closely spaced wood-frame homes also present potential exposure and concealed-space fire-spread concerns."
+      },
+      "sources": [
+        {
+          "label": "SF Heritage — Royal Baking Company Building",
+          "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/a-new-city-landmark-rises-in-the-excelsior/"
+        },
+        {
+          "label": "SF Heritage — Excelsior District History",
+          "url": "https://www.sfheritage.org/heritage-in-the-neighborhoods/excelsior-district-ever-upward/"
+        }
+      ]
+    },
+    {
+      "geoName": "Noe Valley",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Noe Valley developed as a streetcar suburb between the late 1870s and early 1900s, with Type V wood-frame Victorian cottages and flats that largely escaped the 1906 fire. Along 24th Street, surviving pre-1906 commercial buildings combine ground-floor shops with residential spaces above, including architectural styles such as Queen Anne and Classical Revival.",
+        "landmarks": "24th Street, Noe Valley Town Square, Noe Valley Branch Library, Douglass Playground, Billy Goat Hill",
+        "rescueConsiderations": "Storefronts with residences above require firefighters to consider fire spread between floors and separate routes for reaching occupants. Older wood-frame flats can also contain concealed wall and floor spaces, while later renovations may change the original room layouts."
+      },
+      "sources": [
+        {
+          "label": "SF Cultural Resources Survey — 24th Street Historic District",
+          "url": "https://sfculturalheritage.org/report/ba4186c8-9c36-4a78-88ff-ac2728c1ba02"
+        },
+        {
+          "label": "Victorian Alliance — Noe Valley History",
+          "url": "https://victorianalliance.org/noe-valley-history/"
+        }
+      ]
+    },
+    {
+      "geoName": "Glen Park",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Glen Park grew around its streetcar line and the intersection of Diamond and Chenery Streets, with Type V wood-frame cottages and small mixed-use buildings. One of its oldest surviving homes is a shingled cottage built in 1872 at 657 Chenery Street, while an 1897 Stick-Eastlake building at 701–703 Chenery originally housed a saloon and other uses.",
+        "landmarks": "Glen Canyon Park, Glen Park BART Station, Diamond and Chenery Streets, Glen Park Branch Library, Glen Park Recreation Center",
+        "rescueConsiderations": "Historic storefronts may contain separate residential areas, requiring firefighters to check both commercial and upper-floor spaces. Glen Park's steep terrain and irregular street layout can also complicate apparatus access, equipment movement, and patient evacuation."
+      },
+      "sources": [
+        {
+          "label": "SF Cultural Resources Survey — Glen Park Center Historic District",
+          "url": "https://sfculturalheritage.org/report/d29e736e-a940-41c6-b152-3db9f08db515"
+        },
+        {
+          "label": "SF Planning — Glen Park Community Plan",
+          "url": "https://generalplan.sfplanning.org/Glen_Park.htm"
+        },
+        {
+          "label": "Glen Park Neighborhoods History Project — Historic Buildings",
+          "url": "https://www.glenparkhistory.org/single-post/recap-glen-park-neighborhood-history-night"
+        }
+      ]
+    },
+    {
+      "geoName": "West of Twin Peaks",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "West of Twin Peaks includes planned residential districts such as St. Francis Wood, laid out in 1912 with curving streets designed by the Olmsted Brothers to follow the hillside. Unlike neighborhoods built from repeated tract-house plans, its houses were often custom-designed; nearby Forest Hill's 1919 clubhouse, designed by Bernard Maybeck, features a soaring hall with exposed timber beams.",
+        "landmarks": "St. Francis Wood, Forest Hill Clubhouse, Forest Hill, Westwood Park, Mount Davidson",
+        "rescueConsiderations": "Curving hillside streets and distinctive house layouts can make navigation, apparatus placement, and occupant searches less predictable than on a regular street grid. The clubhouse's visible timber beams do not alone establish Type IV heavy-timber construction; firefighters must determine the building's full structural system."
+      },
+      "sources": [
+        {
+          "label": "National Park Service — Olmsted Brothers and St. Francis Wood",
+          "url": "https://home.nps.gov/frla/learn/historyculture/suburbs.htm"
+        },
+        {
+          "label": "UC Berkeley — St. Francis Wood Historic Plans",
+          "url": "https://ced.berkeley.edu/collections/st-francis-wood"
+        },
+        {
+          "label": "Forest Hill Association — Clubhouse Architecture",
+          "url": "https://foresthill-association.com/clubhouse/about-clubhouse/"
+        }
+      ]
+    },
+    {
+      "geoName": "Visitacion Valley",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Visitacion Valley combines Type V wood-frame houses and 1920s–1930s stucco bungalows with its industrial history around the former Schlage Lock factory. In the Little Hollywood tract, architect-designed Spanish and Storybook-style houses stand near the surviving 1926 Schlage administration building, designed by William P. Day; the manufacturing buildings have been demolished.",
+        "landmarks": "Schlage Lock Administration Building, Little Hollywood, Visitacion Valley Branch Library, Sunnydale, Herz Playground",
+        "rescueConsiderations": "Wood-frame residential streets and a former industrial office building require different approaches to identifying fire spread, exits, and structural conditions. Little Hollywood's short, dead-end streets and tunnel connection can make apparatus approach routes and patient transport especially important to plan."
+      },
+      "sources": [
+        {
+          "label": "SF Heritage — Little Hollywood in Visitacion Valley",
+          "url": "https://www.sfheritage.org/news/little-hollywood-in-visitacion-valley/"
+        },
+        {
+          "label": "SF Heritage — Schlage Lock and 8,400 Tons of Steel",
+          "url": "https://specialcity.sfheritage.org/schlage-lock-and-8-400-tons-of-steel/"
+        },
+        {
+          "label": "SF Planning — Visitacion Valley/Schlage Lock Plan",
+          "url": "https://sfplanning.org/visitacion-valleyschlage-lock-plan"
+        }
+      ]
+    },
+    {
+      "geoName": "Treasure Island",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Treasure Island was created from dredged Bay sediment in 1936–1937 for the 1939–1940 Golden Gate International Exposition and a planned airport. Three Art Moderne structures from 1938—the former administration building and two airport hangars—survive alongside former naval buildings and newer development.",
+        "landmarks": "SFFD Training Facility, Treasure Island Museum, Building One, Cityside Park, Treasure Island Sailing Center",
+        "rescueConsiderations": "The island's sandy fill and underlying Bay mud make liquefaction, settlement, and shoreline stability important considerations after an earthquake, although redevelopment incorporates ground improvements to reduce these risks. The causeway to Yerba Buena Island and Bay Bridge access also matter when bringing in emergency resources or transporting patients."
+      },
+      "sources": [
+        {
+          "label": "Treasure Island Museum — Island History",
+          "url": "https://www.treasureislandmuseum.org/island-history"
+        },
+        {
+          "label": "SF Recreation & Park — Treasure Island Infrastructure and Ground Improvements",
+          "url": "https://recpark.sf.gov/m/newsflash/home/detail/2464"
+        },
+        {
+          "label": "USGS — Treasure Island Fill and Liquefaction",
+          "url": "https://cmgds.marine.usgs.gov/data/geotech/treasureposter/treasure.html"
+        }
+      ]
+    },
+    {
+      "geoName": "Hayes Valley",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Hayes Valley retains Victorian and Edwardian Type V wood-frame houses, flats, and mixed-use storefronts, many built between 1860 and 1920. After the 1989 Loma Prieta earthquake damaged the Central Freeway, its removal made way for Octavia Boulevard and newer multifamily housing alongside the historic buildings.",
+        "landmarks": "Patricia's Green, Octavia Boulevard, Hayes Street, SFJAZZ Center, Hayes Valley Playground",
+        "rescueConsiderations": "Historic wood-frame flats and newer multifamily buildings can have very different stairway arrangements, corridors, and concealed spaces, requiring firefighters to understand each building's layout. Mixed-use buildings along Hayes Street also require searches of upper-floor residences in addition to ground-floor businesses."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Market and Octavia Area Plan",
+          "url": "https://generalplan.sfplanning.org/Market_Octavia.htm"
+        },
+        {
+          "label": "SF Planning — Market and Octavia Historic Context Statement",
+          "url": "https://sfplanning.org/resource/market-octavia-area-plan-historic-context-statement"
+        }
+      ]
+    },
+    {
+      "geoName": "Japantown",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Japantown originally featured Victorian rowhouses and storefronts, but much of its historic center was demolished during mid-20th-century redevelopment. Completed in 1968, the Japan Center complex, designed by architect Minoru Yamasaki, introduced interconnected multi-level shopping buildings and Japanese-inspired modern architecture around Peace Plaza.",
+        "landmarks": "Peace Pagoda, Japan Center, Kinmon Gakuen, Buddhist Church of San Francisco, Japanese Cultural and Community Center of Northern California",
+        "rescueConsiderations": "Connected shopping buildings introduce evacuation challenges involving multiple floors, interior corridors, and shared public spaces. Firefighters must also distinguish these larger commercial structures from nearby historic mixed-use buildings, where residences or offices may occupy floors above individual storefronts."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Japantown Special Area Design Guidelines",
+          "url": "https://sfplanning.org/resource/japantown-special-area-design-guidelines"
+        },
+        {
+          "label": "SF Planning — Japantown Historic Context Statement",
+          "url": "https://sfplanning.org/project/sf-histories-historic-context-statements"
+        }
+      ]
+    },
+    {
+      "geoName": "Inner Richmond",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "The Inner Richmond grew from scattered 19th-century cottages into blocks of Type V wood-frame Edwardian flats and mixed-use buildings along Clement Street. At the corner of 4th Avenue and Clement, the 1898 Richmond Hall building still bears faint lettering on its cornice—an architectural reminder of the neighborhood's early gathering places.",
+        "landmarks": "Clement Street, Richmond Hall, Green Apple Books, Richmond Branch Library, Mountain Lake Park",
+        "rescueConsiderations": "Many older Richmond flats have a separate dwelling on each floor and a garage beneath, requiring firefighters to identify every unit and its stairway access. Clement Street's early commercial blocks can also place offices or other occupied rooms above ground-floor shops, expanding the area crews need to search."
+      },
+      "sources": [
+        {
+          "label": "Western Neighborhoods Project — Social and Architectural History of the Richmond",
+          "url": "https://www.outsidelands.org/richmond_arch.php"
+        },
+        {
+          "label": "SF Heritage — Richmond District Historic Survey",
+          "url": "https://www.sfheritage.org/news/heritage-50-richmond-district-survey/"
+        }
+      ]
+    },
+    {
+      "geoName": "Inner Sunset",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "The Inner Sunset began developing over former sand dunes when streetcars reached Ninth Avenue in the 1890s. An early commercial building at Ninth Avenue and Lincoln Way combined seven shops with a rooming house and meeting hall upstairs; today, Type V homes and mixed-use storefronts stand below UCSF's much larger Parnassus medical and research campus.",
+        "landmarks": "9th Avenue and Irving Street, UCSF Parnassus Heights Campus, St. Anne of the Sunset Church, Inner Sunset Farmers' Market, San Francisco Botanical Garden",
+        "rescueConsiderations": "Shops with rooms or residences above require searches beyond the ground-floor business. Nearby UCSF Parnassus facilities introduce multi-story access, laboratory and hospital systems, and patients who may need assistance relocating or evacuating."
+      },
+      "sources": [
+        {
+          "label": "Western Neighborhoods Project — How the Sunset Became the Sunset",
+          "url": "https://outsidelands.org/sunset-name2.php"
+        },
+        {
+          "label": "UCSF — Parnassus Heights Campus Site",
+          "url": "https://realestate.ucsf.edu/campus-sites/parnassus-heights-campus-site"
+        },
+        {
+          "label": "UCSF — High-Rise Building Fire and Life Safety",
+          "url": "https://ehs.ucsf.edu/fire-and-life-safety/high-rise-buildings"
+        }
+      ]
+    },
+    {
+      "geoName": "Outer Richmond",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "The Outer Richmond developed over former sand dunes with rows of Type V wood-frame flats and later three-unit 'Richmond Special' apartment buildings. At the coast, the Cliff House was rebuilt in steel-reinforced concrete in 1909 after two earlier wood-framed versions burned in 1894 and 1907.",
+        "landmarks": "Cliff House, Sutro Baths Ruins, Lands End Lookout, Balboa Street, George Washington High School",
+        "rescueConsiderations": "The Cliff House illustrates how concrete and steel can reduce the amount of combustible structural material, although the contents of a noncombustible building can still burn. In multifamily Richmond Specials, crews must identify separate dwelling units, stairways, and exits rather than assuming one street facade means one household."
+      },
+      "sources": [
+        {
+          "label": "National Park Service — Cliff House History",
+          "url": "https://www.nps.gov/goga/learn/historyculture/cliff-house.htm"
+        },
+        {
+          "label": "Western Neighborhoods Project — Richmond District Architecture",
+          "url": "https://www.outsidelands.org/richmond_arch.php"
+        },
+        {
+          "label": "National Park Service — Cliff House Architecture Through the Years",
+          "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-cliff-house.htm"
+        }
+      ]
+    },
+    {
+      "geoName": "Outer Mission",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Outer Mission contains 1920s Type V wood-frame houses around Cayuga Avenue, including homes with garages beneath the main living level. Stucco and Streamline Moderne facades may look different, but exterior styling alone does not establish a building's structural system.",
+        "landmarks": "Cayuga Playground, Geneva Terraces, Ottawa Street, Mission Street, Geneva Avenue",
+        "rescueConsiderations": "Large ground-floor garage openings can create a weaker lower story during an earthquake if the structure lacks adequate bracing or retrofits. During a fire, crews also need to locate access to upstairs living areas and check concealed wood-frame spaces for fire extension."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Outer Mission Residential Construction",
+          "url": "https://commissions.sfplanning.org/cpcpackets/2016-012135CUA.pdf"
+        },
+        {
+          "label": "SFFD — Fire Scene Terms: Search for Extension",
+          "url": "https://sf-fire.org/news/commonly-used-phrases-fire-scenes"
+        },
+        {
+          "label": "SF Planning — Excelsior and Outer Mission Neighborhood Strategy",
+          "url": "https://sfplanning.org/excelsior-outer-mission-neighborhood-strategy"
+        }
+      ]
+    },
+    {
+      "geoName": "Portola",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Portola is largely made up of low-rise Type V wood-frame homes, but the former University Mound Nursery contains long, single-story greenhouses built with redwood frames, gable roofs, and glass panels. A 2019 city survey documented deteriorated framing and partial collapse in some of these structures.",
+        "landmarks": "University Mound Nursery, University Mound Reservoir, San Bruno Avenue, Portola Branch Library, Palega Recreation Center",
+        "rescueConsiderations": "Unlike a conventional house, a greenhouse has extensive overhead glass and relatively lightweight framing; deterioration can introduce falling-glass and roof-collapse hazards. The greenhouses stand in two rows divided by a central aisle, so structural conditions and access routes matter when planning a search."
+      },
+      "sources": [
+        {
+          "label": "Library of Congress — University Mound Nursery Historic Survey",
+          "url": "https://www.loc.gov/pictures/item/ca4448/"
+        },
+        {
+          "label": "SF Environment — Portola Garden District",
+          "url": "https://www.sfenvironment.org/policy/resolution-support-portola-green-plan-and-recognition-portola-san-franciscos-garden-district"
+        },
+        {
+          "label": "SF Planning — 770 Woolsey Greenhouse Landmark Report",
+          "url": "https://commissions.sfplanning.org/hpcpackets/2019-002774DES.pdf"
+        }
+      ]
+    },
+    {
+      "geoName": "Lone Mountain/USF",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "St. Ignatius Church uses a structural steel frame behind its brick and terra-cotta exterior, showing why a masonry-looking facade does not necessarily mean load-bearing masonry construction. Nearby USF residence halls have multiple floors of individual rooms served by shared circulation and stairways.",
+        "landmarks": "St. Ignatius Church, Lone Mountain North Residence Hall, Lone Mountain Steps, Gleeson Library, San Francisco Columbarium",
+        "rescueConsiderations": "In the church, crews must consider smoke movement in the tall sanctuary and potential hazards from damaged exterior cladding, while recognizing the steel frame as the primary support. Residence halls present different search and rescue demands: many separate rooms, multiple floors, and stairway-based evacuation or patient removal."
+      },
+      "sources": [
+        {
+          "label": "University of San Francisco — Our History",
+          "url": "https://www.usfca.edu/who-we-are/san-franciscos-university/our-history"
+        },
+        {
+          "label": "USF — Lone Mountain North Residence Hall",
+          "url": "https://www.usfca.edu/life-at-usf/housing-dining/student-housing/residence-halls/lone-mountain-north"
+        },
+        {
+          "label": "St. Ignatius Parish — Church Steel Frame",
+          "url": "https://stignatiussf.org/news/a-new-installation-is-taking-shape-in-our-church"
+        }
+      ]
+    },
+    {
+      "geoName": "Presidio Heights",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Presidio Heights includes low-rise Type V wood-frame residences alongside Temple Emanu-El, whose sanctuary and Temple House use steel framing encased in reinforced concrete. Its adjoining courtyard building had a different concrete structural system; recent work added steel-and-concrete support behind preserved historic facades.",
+        "landmarks": "Temple Emanu-El, Presidio Terrace, Presidio Heights Playground, Roos House, California Street",
+        "rescueConsiderations": "Temple Emanu-El combines connected structures with different framing systems and seismic separations, so crews must identify transitions between buildings when assessing damage or moving equipment. Its sanctuary, classrooms, and circulation areas also require different search and evacuation approaches rather than treating the complex as one open space."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Presidio Heights Historic Resource Evaluation",
+          "url": "https://commissions.sfplanning.org/cpcpackets/2012.0267D.pdf"
+        },
+        {
+          "label": "STRUCTURE Magazine — Temple Emanu-El Seismic Engineering",
+          "url": "https://www.structuremag.org/article/bridging-centuries/"
+        },
+        {
+          "label": "Forell Elsesser Engineers — Emanu-El Seismic Retrofit",
+          "url": "https://forell.com/projects/congregation-emanu-el-seismic-retrofit-and-addition"
+        }
+      ]
+    },
+    {
+      "geoName": "Lakeshore",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Parkmerced contains two very different construction systems: 1940s Type V wood-stud garden apartments and later concrete apartment towers completed by 1951. The low-rise buildings are arranged around shared courtyards, while the towers stack many dwellings above ground level.",
+        "landmarks": "Lake Merced, Parkmerced, San Francisco State University, Stonestown Galleria, San Francisco Zoo",
+        "rescueConsiderations": "Garden apartments can involve combustible wall and roof spaces plus separate courtyard entrances that affect searches and fire extension. In the towers, crews must plan for vertical access, stairwell-based evacuation and patient removal, and the building's actual standpipe and elevator arrangements."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Parkmerced",
+          "url": "https://sfplanning.org/project/parkmerced"
+        },
+        {
+          "label": "SF Planning — Parkmerced Sustainability Plan (Building Materials)",
+          "url": "https://default.sfplanning.org/publications_reports/parkmerced/Final_20110623_Parkmerced_Sustainability_Plan.pdf"
+        },
+        {
+          "label": "Western Neighborhoods Project — History of the Lake Merced Area",
+          "url": "https://www.outsidelands.org/lakemerced-area.php"
+        }
+      ]
+    },
+    {
+      "geoName": "Golden Gate Park",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Golden Gate Park contains very different structural systems. The Conservatory of Flowers has a historic wood-and-glass frame whose timber arches were strengthened with steel plates during restoration. Nearby, the de Young Museum uses steel framing and seismic base isolators designed to reduce earthquake forces; its observation tower is structurally separate from the main galleries.",
+        "landmarks": "Conservatory of Flowers, de Young Museum, California Academy of Sciences, Japanese Tea Garden, Music Concourse",
+        "rescueConsiderations": "Damaged greenhouse glazing can create falling-glass hazards, while the Conservatory's connected wings require systematic occupant searches. At the de Young, large galleries and a separate multistory tower create different search, evacuation, and patient-removal challenges."
+      },
+      "sources": [
+        {
+          "label": "SEAONC — Conservatory Structural Restoration",
+          "url": "https://legacy.seaonc.org/structure/conservatory-of-flowers-at-golden-gate-park/"
+        },
+        {
+          "label": "Rutherford + Chekene — de Young Seismic Engineering",
+          "url": "https://ruthchek.com/projects/de-young-museum"
+        },
+        {
+          "label": "SF Recreation & Parks — Conservatory of Flowers",
+          "url": "https://sfrecpark.org/facilities/facility/details/conservatoryofflowers-226"
+        }
+      ]
+    },
+    {
+      "geoName": "Lincoln Park",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Lincoln Park's principal public building is the Legion of Honor museum, completed in 1924. A 1992–1995 seismic retrofit strengthened its existing walls and introduced steel trusses in the attic to better connect the structure during earthquakes. The renovation also added two levels of galleries and service spaces below ground without significantly changing the historic exterior.",
+        "landmarks": "Legion of Honor, Lincoln Park Golf Course, Holocaust Memorial, Eagle's Point Trailhead, California Coastal Trail",
+        "rescueConsiderations": "Underground galleries mean firefighters must account for occupied areas below the apparent ground floor, including stairway access and patient removal. Nearby coastal trails introduce separate rescue hazards: steep slopes, narrow paths, unstable cliffs, and difficult equipment transport."
+      },
+      "sources": [
+        {
+          "label": "SF Recreation & Parks — Lincoln Park",
+          "url": "https://www.sfrecpark.org/facilities/facility/details/Lincoln-Park-186"
+        },
+        {
+          "label": "Los Angeles Times — Legion of Honor Seismic Renovation",
+          "url": "https://www.latimes.com/archives/la-xpm-1995-11-12-ca-2040-story.html"
+        },
+        {
+          "label": "NPS — Eagle Point Trail Conditions",
+          "url": "https://home.nps.gov/places/000/eagle-point-trailhead.htm"
+        }
+      ]
+    },
+    {
+      "geoName": "McLaren Park",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "McLaren Park is primarily open space rather than a residential building district. Its Jerry Garcia Amphitheater uses a hillside seating bowl and tall concrete sound-reflecting walls behind the stage, while the park also contains small recreational buildings, reservoir infrastructure, and extensive paved and unpaved trails.",
+        "landmarks": "Jerry Garcia Amphitheater, McNab Lake, Shelley Promenade, McLaren Park Water Tower, Coffman Pool",
+        "rescueConsiderations": "At amphitheater events, crews must consider crowd movement, stage access, seating routes, and how to remove an injured patient from a hillside venue. Across the park, more than 425 feet of elevation change and pedestrian-only stretches such as Shelley Promenade can make apparatus staging and transport from a trail to an ambulance challenging."
+      },
+      "sources": [
+        {
+          "label": "SF Recreation & Parks — McLaren Park and Terrain",
+          "url": "https://sfrecpark.org/716/McLaren-Park"
+        },
+        {
+          "label": "SF Recreation & Parks — Jerry Garcia Amphitheater",
+          "url": "https://www.sfrecpark.org/Facilities/Facility/Details/Jerry-Garcia-Amphitheater-421"
+        },
+        {
+          "label": "SF Recreation & Parks — McLaren Park Trails",
+          "url": "https://sfrecpark.org/Facilities/Facility/Details/McLaren-Park-Trails-401"
+        }
+      ]
+    },
+    {
+      "geoName": "Seacliff",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Seacliff contains detached two- to four-story homes, including Type V wood-frame houses with stucco exteriors and later residences with multiple floors above a garage. Coastal lots can slope sharply toward Baker Beach or China Beach, creating different elevations at the street and rear of a home.",
+        "landmarks": "China Beach, Sea Cliff Avenue, El Camino del Mar, Lincoln Park Steps, 32nd Avenue",
+        "rescueConsiderations": "A house that appears to have only a few stories from the street may have additional lower levels or stairs on the downhill side, affecting searches and patient removal. Near the coastal bluff, crews must also consider fall hazards and potentially unstable ground, especially after heavy rain or earthquake shaking."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Sea Cliff Avenue Building and Site Evaluation",
+          "url": "https://commissions.sfplanning.org/cpcpackets/2017-013959DRP.pdf"
+        },
+        {
+          "label": "SF Planning — Sea Cliff Multistory Garage-Level House",
+          "url": "https://commissions.sfplanning.org/cpcpackets/2010.0986D.pdf"
+        },
+        {
+          "label": "USGS — Rainfall, Landslides, and Coastal Cliffs",
+          "url": "https://www.usgs.gov/programs/landslide-hazards/science/rainfall-and-landslides-northern-california"
+        }
+      ]
+    },
+    {
+      "geoName": "Twin Peaks",
+      "image": {
+        "src": "",
+        "alt": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      },
+      "sections": {
+        "buildingsArchitecture": "Twin Peaks has midcentury hillside housing that differs from San Francisco's flat street-grid rowhouses. Midtown Terrace developed with detached two-story homes on terraced streets, while a documented east-slope apartment building used wood framing for three residential floors above a garage, adapting its layout to the steep lot.",
+        "landmarks": "Eureka Peak, Noe Peak, Christmas Tree Point, Twin Peaks Boulevard, Twin Peaks Promenade",
+        "rescueConsiderations": "Street-level appearances can be misleading on steep sites: a building may have extra occupied floors or entrances downhill, affecting floor counts, searches, and stretcher routes. Winding streets, retaining walls, trails, and changing vehicle-access restrictions around the summit also require crews to confirm the safest approach and patient-removal route."
+      },
+      "sources": [
+        {
+          "label": "SF Planning — Midtown Terrace Hillside Housing",
+          "url": "https://commissions.sfplanning.org/cpcpackets/2016-006221MAP.pdf"
+        },
+        {
+          "label": "Architecture/West (1968) — Wood-Frame Grandview Apartments",
+          "url": "https://www.usmodernist.org/AW/AW-1968-08.pdf"
+        },
+        {
+          "label": "SF Recreation & Parks — Twin Peaks Access and Trails",
+          "url": "https://www.sfrecpark.org/Facilities/Facility/Details/Twin-Peaks-384"
+        }
+      ]
+    }
+  ]
+}
